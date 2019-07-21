@@ -1,5 +1,5 @@
 # Navigation
-[## Github_Direction](https://guides.github.com/features/mastering-markdown/)
+## [Github_Direction](https://guides.github.com/features/mastering-markdown/)
 1. Item 1
 1. Item 2
 1. Item 3
